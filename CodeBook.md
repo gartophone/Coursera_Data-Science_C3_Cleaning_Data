@@ -8,7 +8,7 @@ DATA DICTIONARY
 	- Name of the activity
 	- Values: WALKING, WALKING\_UPSTAIRS, WALKING\_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-Moreover, the following variables 
+Moreover, the following variables are issues from the sensor signals:
 
 * f\_ prefix to indicate frequency domain signals (Hz)
 * f\_ prefix to indicate time domain signals (s)
